@@ -1,4 +1,4 @@
-<img src="https://github.com/geniusxp/backend-dotnet/blob/main/backend-.net/banner_geniusxp.png">
+<img src="https://github.com/the-ampz/dotnet/blob/main/Ampz.png">
 
 # Sobre a AMPZ
 
