@@ -193,16 +193,16 @@ https://localhost:5130/swagger/index.html
 Através da interface do Swagger, você pode testar os endpoints diretamente, enviando requisições e recebendo as respostas em tempo real. Isso facilita a verificação da funcionalidade da API sem a necessidade de ferramentas externas.
 
 # Instruções para executar o projeto (Nuvem)
-Para executar e testar a API GeniusXP, siga os passos abaixo:
+Para executar e testar a API do Ampz, siga os passos abaixo:
 
 1. Acesse o seguinte endereço para iniciar o projeto:
 ```
-
+http://ampzbackenddotnet.brazilsouth.azurecontainer.io:8080
 ```
 
 2. Para visualizar a documentação e testar os endpoints da API, acesse o Swagger no seguinte link:
 ```
-
+http://ampzbackenddotnet.brazilsouth.azurecontainer.io:8080/swagger/index.html
 ```
 O Swagger fornece uma interface interativa para explorar os recursos da API diretamente no navegador.
 
@@ -303,7 +303,7 @@ Corpo da requisição:
 # Vídeo Demonstração
 Para ver o vídeo de demonstração da aplicação, acesse: 
 
-# Equipe GeniusXP
+# Equipe Ampz
 - RM99565 - Erick Nathan Capito Pereira
 - RM550841 - Lucas Araujo Oliveira Silva
 - RM99409 - Michael José Bernardi Da Silva
