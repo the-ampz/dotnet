@@ -1,3 +1,5 @@
+<img src="https://github.com/geniusxp/backend-dotnet/blob/main/backend-.net/banner_geniusxp.png">
+
 # Sobre a AMPZ
 
 A Ampz é uma plataforma que combina IoT e educação infantil para promover hábitos sustentáveis. Utilizando dispositivos inteligentes nos quartos das crianças, monitora o consumo de energia em tempo real, incentivando o aprendizado por meio de desafios interativos e recompensas. Além de ensinar a importância da economia de energia, a Ampz conecta usuários e comunidades em uma rede engajada pela sustentabilidade.
