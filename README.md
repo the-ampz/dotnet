@@ -1,4 +1,4 @@
-<img src="https://dev.azure.com/RM550841/91a34fbf-af97-471a-8b47-441972abc4eb/_apis/git/repositories/b9d7830a-96a0-4ae0-b3f5-4d1231f8d76d/items?path=/Ampz.png&versionDescriptor%5BversionOptions%5D=0&versionDescriptor%5BversionType%5D=0&versionDescriptor%5Bversion%5D=banner&resolveLfs=true&%24format=octetStream&api-version=5.0">
+<img src="https://github.com/the-ampz/dotnet/blob/main/Ampz.png">
 
 # Sobre a AMPZ
 
