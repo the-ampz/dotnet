@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ampz-dotnet", "ampz-dotnet.csproj", "{BC5E7F0F-DBF7-43EA-BB01-70CD702A9B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ampz-dotnet-test", "..\ampz-dotnet-test\ampz-dotnet-test.csproj", "{8A1C60C8-9748-4DA5-BF4A-5B0046FFD82C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5E7F0F-DBF7-43EA-BB01-70CD702A9B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5E7F0F-DBF7-43EA-BB01-70CD702A9B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5E7F0F-DBF7-43EA-BB01-70CD702A9B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5E7F0F-DBF7-43EA-BB01-70CD702A9B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A1C60C8-9748-4DA5-BF4A-5B0046FFD82C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1C60C8-9748-4DA5-BF4A-5B0046FFD82C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1C60C8-9748-4DA5-BF4A-5B0046FFD82C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1C60C8-9748-4DA5-BF4A-5B0046FFD82C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30B7A15E-5044-4B80-B9B1-19FD9195D5C2}
+	EndGlobalSection
+EndGlobal
